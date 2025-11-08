@@ -1,4 +1,7 @@
-# 🌿 bGreen
+# 🌿 Greenline
+
+
+![Landing Page](./landing-page.png)
 
 > **Carbon analytics made actionable.**  
 > Greenline translates business transactions into real-time CO₂ emissions insights - helping companies visualize, understand, and reduce their environmental impact.
@@ -7,7 +10,7 @@
 
 ## 🚀 Overview
 
-bGreen is a **B2B sustainability analytics platform** that estimates and visualizes a business’s carbon footprint directly from its financial data.  
+Greenline is a **B2B sustainability analytics platform** that estimates and visualizes a business’s carbon footprint directly from its financial data.  
 Using **Stripe Issuing**, simulated transactions are mapped to **merchant category codes (MCCs)** and paired with **EEIO emissions factors** to deliver automated, accurate, and scalable carbon insights.
 
 ---
@@ -85,7 +88,7 @@ Using **Stripe Issuing**, simulated transactions are mapped to **merchant catego
 ## 🧑‍💻 Authors
 
 **Ardi Ahmed, ** **Adam Khadre, ** **Junna Park **  
-Founders of bGreen, HackOHI/O '25  
+Founders of Greenline, HackOHI/O '25  
 The Ohio State University - Computer Science & Engineering  
 https://linkedin.com/in/ardiahmed1
 https://github.com/ardiahm
@@ -94,7 +97,7 @@ https://github.com/ardiahm
 
 ## 🪶 All Rights Reserved 
 
-bGreen - All Rights Reserved
+Greenline - All Rights Reserved
 
 ---
 
